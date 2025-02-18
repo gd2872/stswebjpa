@@ -15,4 +15,4 @@ VOLUME /app/upload
 
 WORKDIR $APP_HOME
 ENTRYPOINT ["java"]
-CMD ["-jar", "stsweb.jar"]
+CMD ["-jar", "stswebjpa.jar"]
